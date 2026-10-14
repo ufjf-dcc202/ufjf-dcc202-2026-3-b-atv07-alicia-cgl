@@ -1,0 +1,15 @@
+p {
+    font-family: sans-serif;
+}
+em {
+    color: red;
+}
+code {
+    background-color: red;
+    text-decoration: underline;
+}
+
+dt > code {
+    color: white;
+    background-color: black;
+}
